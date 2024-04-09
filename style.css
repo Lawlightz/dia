@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b23da5;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #8a3d81;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 30px;
+}
+
+.fazueli {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.oi {
+width: 250px;
+position: absolute;
+padding: 0 0 200px;
+
+}
+footer {
+    background-color: #c551b7;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.bozo {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 80px 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+.imagi {
+    width: 450px;
+     height: 450px;
+     padding: 0 0 0 290px;
+}
